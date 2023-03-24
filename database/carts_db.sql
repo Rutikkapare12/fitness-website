@@ -86,7 +86,7 @@ CREATE TABLE `orders` (
 
 INSERT INTO `orders` (`id`, `user_id`, `name`, `number`, `email`, `method`, `address`, `total_products`, `total_price`, `placed_on`, `payment_status`) VALUES
 (20, 1, 'rutik ', '1234567890', 'rutik12@gmail.com', 'cash on delivery', 'flat no. taradgaon , taradgaon, phaltan, india - 415528', ', chiffon cake.jpg (3) ', 780, '23-Feb-2023', 'pending'),
-(21, 16, 'Rutik kapare', '09145691871', 'rutik12@gmail.com', 'cash on delivery', 'flat no. 123 ac, ravivar peth, Phaltan, India - 415528', ', chiffon cake.jpg (2) ', 520, '23-Mar-2023', 'pending');
+(21, 16, 'Rutik kapare', '0789456132', 'rutik12@gmail.com', 'cash on delivery', 'flat no. 123 ac, ravivar peth, Phaltan, India - 415528', ', chiffon cake.jpg (2) ', 520, '23-Mar-2023', 'pending');
 
 -- --------------------------------------------------------
 
